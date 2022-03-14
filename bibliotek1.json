@@ -1,6 +1,6 @@
 {
     "tittel" : "Bibliotek",
-    "bøker" : [
+    "bok" : [
         { "tittel" : "R2", "forfatter" : "Odd Heir" }, 
         { "tittel" : "Fyrsten", "forfatter" : "Niccolò Machiavelli" }, 
         { "tittel" : "Informasjonsteknologi 1", "forfatter" : "Lars Nersveen" }, 
