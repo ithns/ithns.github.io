@@ -5,8 +5,8 @@
         { "tittel" : "Fyrsten", "forfatter" : "Niccolò Machiavelli" }, 
         { "tittel" : "Informasjonsteknologi 1", "forfatter" : "Lars Nersveen" }, 
         { "tittel" : "Ungdom", "forfatter" : "Winston S. Churchill" },
-		{ "tittel" : "1984", "forfatter" : "George Orwell" },
-		{ "tittel" : "The black swan", "forfatter" : "Nassim Nicolas Taleb" }
+	{ "tittel" : "1984", "forfatter" : "George Orwell" },
+	{ "tittel" : "The black swan", "forfatter" : "Nassim Nicolas Taleb" }
     ]
 }
 
