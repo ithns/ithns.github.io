@@ -1,0 +1,10 @@
+{
+	"tema" : "Periodesystemet",
+	"grunnstoff":[
+	{"navn": "hydrogen", "atomnummer": "1", "symbol": "H"},
+	{"navn": "helium", "atomnummer": "2", "symbol": "He"},
+	{"navn": "bly", "atomnummer": "82", "symbol": "Pb"},
+	{"navn": "gull", "atomnummer": "79", "symbol": "Au"},
+	{"navn": "neon", "atomnummer": "10", "symbol": "Ne"}
+	]
+}
